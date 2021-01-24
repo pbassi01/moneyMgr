@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-moneymgr-dev-114001-authRole",
+      "UnauthRoleArn": "arn:aws:iam::926563630114:role/amplify-moneymgr-dev-114001-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::926563630114:role/amplify-moneymgr-dev-114001-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-moneymgr-dev-114001-deployment",
+      "UnauthRoleName": "amplify-moneymgr-dev-114001-unauthRole",
+      "StackName": "amplify-moneymgr-dev-114001",
+      "StackId": "arn:aws:cloudformation:us-east-2:926563630114:stack/amplify-moneymgr-dev-114001/f6494f40-5e7b-11eb-9dea-0ae677223738",
+      "AmplifyAppId": "dtkrarccbroap"
+    }
+  }
+}
